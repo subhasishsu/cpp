@@ -1,10 +1,10 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int a,b,sum=0;
+    int a,b,mul=1;
     a = 4;
     b= 5;
-    sum = a+b;
-    cout << "Sum : " << sum;
+    mul = a*b;
+    cout << "Mul : " << mul;
     return 0;
 }
